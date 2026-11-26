@@ -8,3 +8,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 1 (26 Nov 01:14 UTC) | Balkan brass ska | take-b |
 | 2 (26 Nov 04:48 UTC) | 1950s doo-wop ballad | no-delete-button |
 | 2 (26 Nov 04:48 UTC) | Gregorian chant | lament-missing-heading |
+| 3 (26 Nov 08:48 UTC) | traditional sea shanty | heave-away-forty-seven |
+| 3 (26 Nov 08:48 UTC) | 1980s synthwave | two-hundred-and-two |
