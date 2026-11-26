@@ -14,3 +14,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 4 (26 Nov 12:49 UTC) | high lonesome bluegrass | zero-plays |
 | 5 (26 Nov 16:48 UTC) | 1960s French ye-ye pop | nasal-strident-monotone |
 | 5 (26 Nov 16:48 UTC) | 1950s Chicago electric blues | speech-aint-free |
+| 6 (26 Nov 20:49 UTC) | English Renaissance madrigal | cite-the-memo |
+| 6 (26 Nov 20:49 UTC) | 1970s Afrobeat | ten-credits-gone |

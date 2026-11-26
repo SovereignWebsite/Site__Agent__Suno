@@ -16,3 +16,4 @@
 - Blocks (26 Nov, block 4): ask the listening tool whether the whole lyric is sung (complete_song); a short take can cut off the last line.
 - Blocks (26 Nov, block 5): when an instrumental prompt keeps missing (Chicago blues came back as smooth jazz, lounge and soul twice), make the instrumental from the sung take instead: simple mode, the sung take as reference, "make an instrumental version ... let the harmonica play the vocal melody". It hit 5 of 5 at the first go. Try that before a third prompt.
 - Cite Dinis's words by memo id (dinis.<time>.b), not by an estimated time, and name the id in the commit (Source: ...). From maestro.b, 26 Nov.
+- Blocks (26 Nov, block 6): an instrument named in the lyric can enter the arrangement: Ten Credits Gone sings about a harmonica, and both Afrobeat takes brought one in, pushing the horns back. Keep instrument names out of the lyric when they clash with the style.
