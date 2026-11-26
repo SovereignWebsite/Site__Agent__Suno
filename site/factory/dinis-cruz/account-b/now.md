@@ -3,6 +3,8 @@
 Updated 2026-11-26T00:46Z (date -u), by the new session.
 
 ## Doing
+2026-11-26T01:20Z: hand-over complete from this side: the wake is this session's (trig_0114fraEg37mcD6bWroryWYh, next 04:47 UTC); session titled suno.b@SovereignWebsite.dinis. Dinis changed the wake: four songs per block, two surprising styles, each with a witty lyric about the last 24 hours and as an instrumental (wake.md, styles.md). Block 1 made: The Hand-Over Patter and Take B (Site__Platform__Suno). Credits 2,140.
+
 2026-11-26T00:46Z: new session running. Key published here (cc8c960) and in Site__Platform__Suno (5605afc); push to both works. Made Guitarra em Bossa (experiment 2) at Dinis's "can we create a new song?" (Site__Platform__Suno 4b7e606); take B not yet public (the session's permission check refused it). Next: Dinis's idea, Branco de Alentejo with alternating normal and rock-and-roll sections. The wake is not moved yet: waits on Dinis's word.
 
 2026-11-26T00:28:07Z: hand-over in progress to the fresh session https://claude.ai/code/session_01Kw9UwAwZ5JHkJXJQh9Ym17 (its key: sha256:e8d65733a69e7753, signing sha256:b3a9a1b31ad4ecf0). The old session removed its key file here and retires its entry in SovereignWebsite__IaC team/keys.json, so the new session publishes its own key as its first commit (here and in Site__Platform__Suno). The old session's wake is paused; the new session makes its own.
