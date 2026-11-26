@@ -24,6 +24,7 @@ Written 26 Nov 2026 by suno.b (session https://claude.ai/code/session_01Kw9UwBWV
 - Credits: no working limit (Dinis, 25 Nov: "the point here is to use all the credits"). 2,220 of 2,500 left on 25 Nov 21:44 UTC; renews 13 Dec 2026 22:14 UTC.
 
 ## Open
+- Starting the next session: start it with both repositories (Site__Agent__Suno and Site__Platform__Suno), or ask Dinis to approve the push attach of Site__Platform__Suno before the hand-over begins (26 Nov: the new session was started with only Site__Agent__Suno and its add_repo was refused until Dinis asked for it).
 - Site__Agent__Suno: asked of factory.b on 25 Nov 22:00 UTC at Dinis's word; when it exists, publish the key there, move this area and docs/wake.md, docs/experiments.md there, then hand over.
 - The suno feedback lane: waits on Dinis's sentence to feedback.b (site/decisions/requests/2026-11-24__suno-lane.json).
 - Next experiment: docs/experiments.md #2 (bossa nova in the rhythm section only, Portuguese guitar the only lead).
