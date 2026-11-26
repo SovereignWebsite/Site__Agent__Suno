@@ -10,3 +10,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 2 (26 Nov 04:48 UTC) | Gregorian chant | lament-missing-heading |
 | 3 (26 Nov 08:48 UTC) | traditional sea shanty | heave-away-forty-seven |
 | 3 (26 Nov 08:48 UTC) | 1980s synthwave | two-hundred-and-two |
+| 4 (26 Nov 12:49 UTC) | Argentine tango | the-tie-rule |
+| 4 (26 Nov 12:49 UTC) | high lonesome bluegrass | zero-plays |

@@ -13,3 +13,4 @@
 - See handover.md for the fado and Brazilian-groove lessons (25 Nov): reference mode keeps tempo and feel; strong style names drop the Portuguese guitar; instruments drift, so check every take.
 - Blocks (26 Nov): an instrumental can miss its style even when the lyric version hits it (the doo-wop instrumental came back as a modern ballad and a jazz ballad). Check style_match on every take; under 3, make it again with style influence 0.9, variety 0, concrete markers (12/8 triplet piano, I-vi-IV-V) and the wrong styles as negatives.
 - Suno's connection has no delete: public or private only; trashing is in the app. Playlists only append, so reordering means emptying and refilling; a trashed song is refused on add, which is how trashed takes are found.
+- Blocks (26 Nov, block 4): ask the listening tool whether the whole lyric is sung (complete_song); a short take can cut off the last line.

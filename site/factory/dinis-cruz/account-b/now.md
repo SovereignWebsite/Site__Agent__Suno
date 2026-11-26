@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-26T09:00Z (date -u).
+Updated 2026-11-26T13:00Z (date -u).
 
 ## Doing
+2026-11-26T13:00Z: block 4 made at the 12:47 wake: The Tie Rule (Argentine tango) and Zero Plays (bluegrass), each with lyrics and instrumental; one take of each sung song missed (a cabaret tango, a bluegrass take cut off at the last line), the other take was right, so no retry. Credits 2,010. No new likes, nothing trashed, no request from Dinis. Next block 16:47 UTC.
+
 2026-11-26T09:00Z: block 3 made at the 08:47 wake: Heave Away at Forty-Seven (sea shanty) and Two Hundred and Two (1980s synthwave), each with lyrics and instrumental; every take hit its style, no retry. Credits 2,050. No new likes, nothing trashed, no request from Dinis. Next block 12:47 UTC.
 
 2026-11-26T05:00Z: block 2 made at the 04:47 wake: No Delete Button (1950s doo-wop) and Lament for a Missing Heading (Gregorian chant), each with lyrics and instrumental; the doo-wop instrumental made twice (the first two takes missed the style). Credits 2,090. Since block 1: the four Take B songs archived and made private at Dinis's word (no delete in Suno's connection: he trashes them in the app); the playlists rebuilt in place; The Hand-Over Patter take B published at his word. Next block 08:47 UTC.
