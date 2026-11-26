@@ -15,3 +15,4 @@
 - Suno's connection has no delete: public or private only; trashing is in the app. Playlists only append, so reordering means emptying and refilling; a trashed song is refused on add, which is how trashed takes are found.
 - Blocks (26 Nov, block 4): ask the listening tool whether the whole lyric is sung (complete_song); a short take can cut off the last line.
 - Blocks (26 Nov, block 5): when an instrumental prompt keeps missing (Chicago blues came back as smooth jazz, lounge and soul twice), make the instrumental from the sung take instead: simple mode, the sung take as reference, "make an instrumental version ... let the harmonica play the vocal melody". It hit 5 of 5 at the first go. Try that before a third prompt.
+- Cite Dinis's words by memo id (dinis.<time>.b), not by an estimated time, and name the id in the commit (Source: ...). From maestro.b, 26 Nov.

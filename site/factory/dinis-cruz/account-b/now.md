@@ -5,7 +5,7 @@ Updated 2026-11-26T17:00Z (date -u).
 ## Doing
 2026-11-26T17:00Z: block 5 made at the 16:47 wake: Nasal, Strident, Monotone (1960s French ye-ye) and Speech Ain't Free (1950s Chicago blues), each sung and instrumental. Both instrumentals missed at first: the ye-ye one landed on a tighter prompt; the blues one missed twice more and landed when made from the sung take (Site__Platform__Suno ec2ae66). Both playlists rebuilt. Credits 1,820 (80 since 15:52; 10 not accounted for). Episode 1 of the Songs show is up as a Suno playlist (version 1); version 2 waits on download credits. Next block 20:47 UTC.
 
-2026-11-26T15:40Z: maestro.b relayed Dinis's podcast idea (the words are in maestro.b's session, 15:40 UTC). Plan and episode 1 script written (Site__Platform__Suno docs/podcast/, c8417e0). Waiting on Dinis's word in this session to make the presenter clips (version 1, a Suno playlist), and on download credits for version 2 (one audio file); b.social to say where it goes.
+2026-11-26T15:40Z: maestro.b relayed Dinis's podcast idea (memo dinis.2026-11-26T1531Z.b, in maestro.b's session). Plan and episode 1 script written (Site__Platform__Suno docs/podcast/, c8417e0). Waiting on Dinis's word in this session to make the presenter clips (version 1, a Suno playlist), and on download credits for version 2 (one audio file); b.social to say where it goes.
 
 2026-11-26T13:00Z: block 4 made at the 12:47 wake: The Tie Rule (Argentine tango) and Zero Plays (bluegrass), each with lyrics and instrumental; one take of each sung song missed (a cabaret tango, a bluegrass take cut off at the last line), the other take was right, so no retry. Credits 2,010. No new likes, nothing trashed, no request from Dinis. Next block 16:47 UTC.
 
