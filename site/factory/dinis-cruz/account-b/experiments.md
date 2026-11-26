@@ -10,7 +10,7 @@ Status: next = the first line marked "next"; each wake moves it to "done" with t
 |---|---|---|---|
 | 1 | Choro (Brazil) | cavaquinho answers, seven-string guitar bass lines, pandeiro, 112 bpm | done: guitarra-e-cavaquinho |
 | 2 | Bossa nova, rhythm only | nylon guitar bossa comping, brushes and cross-stick, soft upright bass, 100 bpm; Portuguese guitar the only lead | next |
-| 3 | Flamenco rumba | cajon, palmas, flamenco guitar rasgueado answering, 110 bpm | |
+| 3 | Flamenco rumba | cajon, palmas, flamenco guitar rasgueado answering, 110 bpm | next |
 | 4 | Cape Verdean coladeira | cavaquinho, acoustic bass, light shaker, 104 bpm | |
 | 5 | Jazz trio | piano comping, upright bass walking, brushes, 120 bpm swing | |
 | 6 | String quartet | violins and cello in counterpoint, 84 bpm | |
