@@ -6,3 +6,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 |---|---|---|
 | 1 (26 Nov 01:14 UTC) | Victorian comic operetta patter song | hand-over-patter |
 | 1 (26 Nov 01:14 UTC) | Balkan brass ska | take-b |
+| 2 (26 Nov 04:48 UTC) | 1950s doo-wop ballad | no-delete-button |
+| 2 (26 Nov 04:48 UTC) | Gregorian chant | lament-missing-heading |

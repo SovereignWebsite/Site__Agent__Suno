@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-26T00:46Z (date -u), by the new session.
+Updated 2026-11-26T05:00Z (date -u).
 
 ## Doing
+2026-11-26T05:00Z: block 2 made at the 04:47 wake: No Delete Button (1950s doo-wop) and Lament for a Missing Heading (Gregorian chant), each with lyrics and instrumental; the doo-wop instrumental made twice (the first two takes missed the style). Credits 2,090. Since block 1: the four Take B songs archived and made private at Dinis's word (no delete in Suno's connection: he trashes them in the app); the playlists rebuilt in place; The Hand-Over Patter take B published at his word. Next block 08:47 UTC.
+
 2026-11-26T01:20Z: hand-over complete from this side: the wake is this session's (trig_0114fraEg37mcD6bWroryWYh, next 04:47 UTC); session titled suno.b@SovereignWebsite.dinis. Dinis changed the wake: four songs per block, two surprising styles, each with a witty lyric about the last 24 hours and as an instrumental (wake.md, styles.md). Block 1 made: The Hand-Over Patter and Take B (Site__Platform__Suno). Credits 2,140.
 
 2026-11-26T00:46Z: new session running. Key published here (cc8c960) and in Site__Platform__Suno (5605afc); push to both works. Made Guitarra em Bossa (experiment 2) at Dinis's "can we create a new song?" (Site__Platform__Suno 4b7e606); take B not yet public (the session's permission check refused it). Next: Dinis's idea, Branco de Alentejo with alternating normal and rock-and-roll sections. The wake is not moved yet: waits on Dinis's word.
