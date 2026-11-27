@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-26T21:00Z (date -u).
+Updated 2026-11-27T01:00Z (date -u).
 
 ## Doing
+2026-11-27T01:00Z: block 7 made at the 00:47 wake: Too Sensual for the Show (1940s big band swing) and Twenty Downloads, Fifteen Left (1930s Hawaiian steel guitar), each sung and instrumental; every take on style; both Hawaiian sung takes cut off in the last chorus (Site__Platform__Suno 7461f62). Playlists rebuilt; nothing trashed; likes unchanged (nine). Credits 1,720. Still waiting on Dinis: the Songs show v2 clips, the vault key (ef0qj1ju exists), download credits. Next block 04:47 UTC.
+
 2026-11-26T21:25Z: Dinis's episode 1 feedback (relayed by maestro.b from c.maestro's session): four v2 sample takes of the opening made (20 credits); a music bed with fades works; one take has a mostly neutral voice (2465f1b9, private). Asked b.vault.keeper for a vault. Waiting on Dinis: redo the eleven clips (110 credits), and download credits for the vault (20 needed, 15 left). Site__Platform__Suno docs/podcast/episode-1-feedback.md (99a104b).
 
 2026-11-26T21:00Z: block 6 made at the 20:47 wake: Cite the Memo by Its Id (English Renaissance madrigal) and Ten Credits Gone (1970s Afrobeat), each sung and instrumental; every take on style, no retry (Site__Platform__Suno 27294a8). Both playlists rebuilt; nothing trashed; likes unchanged (nine). Credits 1,780 (exactly 40 spent). Next block 00:47 UTC.
