@@ -22,3 +22,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 8 (27 Nov 04:49 UTC) | 1990s jungle drum and bass | remove-twenty-add-twenty |
 | 9 (27 Nov 08:48 UTC) | Cape Verdean morna | eight-songs-in-the-bin |
 | 9 (27 Nov 08:48 UTC) | 1980s Italo disco | zero-out-of-five |
+| 10 (27 Nov 12:49 UTC) | Brazilian forró | cut-off-before-the |
+| 10 (27 Nov 12:49 UTC) | Coimbra fado serenade | waiting-on-your-word |

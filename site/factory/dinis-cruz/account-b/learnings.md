@@ -18,3 +18,4 @@
 - Cite Dinis's words by memo id (dinis.<time>.b), not by an estimated time, and name the id in the commit (Source: ...). From maestro.b, 26 Nov.
 - Blocks (26 Nov, block 6): an instrument named in the lyric can enter the arrangement: Ten Credits Gone sings about a harmonica, and both Afrobeat takes brought one in, pushing the horns back. Keep instrument names out of the lyric when they clash with the style.
 - Dinis's taste and the listening tool's scores can disagree: he liked the blues take scored 0 of 5 and trashed the one scored 5, and trashed all of block 7's picks (27 Nov). Scores pick a default; his likes and trashes decide.
+- Blocks (27 Nov, block 10): long lyrics lose their last line (eight sung takes in a row). Ending on a short shout ([Outro] Hey!) kept both forró takes complete; the fado song without one was cut off again. End every sung lyric on a short shouted or one-word outro.
