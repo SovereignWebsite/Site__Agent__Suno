@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-27T05:00Z (date -u).
+Updated 2026-11-27T09:00Z (date -u).
 
 ## Doing
+2026-11-27T09:00Z: block 9 made at the 08:47 wake: Eight Songs in the Bin (Cape Verdean morna) and Zero Out of Five (1980s Italo disco), each sung and instrumental; styles leaned towards what Dinis keeps (Lusophone acoustic, electronic) (Site__Platform__Suno 3afae15). Playlists rebuilt; nothing newly trashed; likes unchanged. Credits 1,640. Still waiting on Dinis: publish the liked blues take? the Songs show v2 clips, the vault key, download credits. Next block 12:47 UTC.
+
 2026-11-27T05:00Z: block 8 made at the 04:47 wake: The Wrong Take (klezmer) and Remove Twenty, Add Twenty (1990s jungle), each sung and instrumental (Site__Platform__Suno ac24e8f). New like: Speech Ain't Free v4 take B (private, scored 0 by the tool). Eight published picks found trashed (all four of block 7, Cite the Memo sung, both Ten Credits Gone, Speech Ain't Free v4 A); recorded, playlists rebuilt without them. Asked Dinis: publish the liked take? what to read from the trashes? Credits 1,680. Next block 08:47 UTC.
 
 2026-11-27T01:00Z: block 7 made at the 00:47 wake: Too Sensual for the Show (1940s big band swing) and Twenty Downloads, Fifteen Left (1930s Hawaiian steel guitar), each sung and instrumental; every take on style; both Hawaiian sung takes cut off in the last chorus (Site__Platform__Suno 7461f62). Playlists rebuilt; nothing trashed; likes unchanged (nine). Credits 1,720. Still waiting on Dinis: the Songs show v2 clips, the vault key (ef0qj1ju exists), download credits. Next block 04:47 UTC.
