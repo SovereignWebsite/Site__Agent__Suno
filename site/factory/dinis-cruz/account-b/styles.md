@@ -26,3 +26,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 10 (27 Nov 12:49 UTC) | Coimbra fado serenade | waiting-on-your-word |
 | 11 (27 Nov 16:48 UTC) | Portuguese vira (Minho) | end-it-with-a-shout |
 | 11 (27 Nov 16:48 UTC) | Rio samba-enredo | sixteen-hundred-samba |
+| 12 (27 Nov 20:49 UTC) | Angolan kuduro | one-song-one-download |
+| 12 (27 Nov 20:49 UTC) | early 1960s California surf rock | out-by-the-fourth |
