@@ -24,3 +24,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 9 (27 Nov 08:48 UTC) | 1980s Italo disco | zero-out-of-five |
 | 10 (27 Nov 12:49 UTC) | Brazilian forró | cut-off-before-the |
 | 10 (27 Nov 12:49 UTC) | Coimbra fado serenade | waiting-on-your-word |
+| 11 (27 Nov 16:48 UTC) | Portuguese vira (Minho) | end-it-with-a-shout |
+| 11 (27 Nov 16:48 UTC) | Rio samba-enredo | sixteen-hundred-samba |

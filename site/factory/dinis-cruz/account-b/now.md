@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-27T13:00Z (date -u).
+Updated 2026-11-27T17:00Z (date -u).
 
 ## Doing
+2026-11-27T17:00Z: block 11 made at the 16:47 wake: End It with a Shout (Portuguese vira, sung twice) and Sixteen Hundred, Samba (Rio samba-enredo), each sung and instrumental (Site__Platform__Suno 23516fd). Every sung take ended on its shout. Credits 1,550; at 240 a day they last to about 4 December, before the renewal on 13 December (told Dinis). Playlists rebuilt; nothing trashed; likes unchanged. Next block 20:47 UTC.
+
 2026-11-27T13:00Z: block 10 made at the 12:47 wake: Cut Off Before the (Brazilian forró) and Waiting on Your Word (Coimbra fado), each sung and instrumental (Site__Platform__Suno 69db032). A short shouted outro kept the forró song whole; now a rule in learnings.md. Playlists rebuilt; nothing trashed; likes unchanged. Credits 1,600. Still waiting on Dinis: the liked blues take, the Songs show v2 clips, the vault key, download credits. Next block 16:47 UTC.
 
 2026-11-27T09:00Z: block 9 made at the 08:47 wake: Eight Songs in the Bin (Cape Verdean morna) and Zero Out of Five (1980s Italo disco), each sung and instrumental; styles leaned towards what Dinis keeps (Lusophone acoustic, electronic) (Site__Platform__Suno 3afae15). Playlists rebuilt; nothing newly trashed; likes unchanged. Credits 1,640. Still waiting on Dinis: publish the liked blues take? the Songs show v2 clips, the vault key, download credits. Next block 12:47 UTC.
