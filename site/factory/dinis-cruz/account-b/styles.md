@@ -18,3 +18,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 6 (26 Nov 20:49 UTC) | 1970s Afrobeat | ten-credits-gone |
 | 7 (27 Nov 00:48 UTC) | 1940s big band swing | too-sensual-for-the-show |
 | 7 (27 Nov 00:48 UTC) | 1930s Hawaiian steel guitar | twenty-downloads-fifteen-left |
+| 8 (27 Nov 04:49 UTC) | traditional klezmer | the-wrong-take |
+| 8 (27 Nov 04:49 UTC) | 1990s jungle drum and bass | remove-twenty-add-twenty |
