@@ -34,3 +34,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 14 (28 Nov 04:48 UTC) | late 1990s UK garage | five-for-the-radio |
 | 15 (28 Nov 08:48 UTC) | Mozambican marrabenta | a-man-at-last |
 | 15 (28 Nov 08:48 UTC) | 1980s Chicago acid house | four-questions-waiting |
+| 16 (28 Nov 12:49 UTC) | Brazilian frevo | not-chicago |
+| 16 (28 Nov 12:49 UTC) | Rio funk carioca | twenty-back-in |
