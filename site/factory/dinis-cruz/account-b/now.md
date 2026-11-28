@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-27T21:00Z (date -u).
+Updated 2026-11-28T01:00Z (date -u).
 
 ## Doing
+2026-11-28T01:00Z: block 13 made at the 00:47 wake: The Shout Is No Guarantee (Cape Verdean funaná) and Midnight, Nothing Trashed (1980s Japanese city pop), each sung and instrumental (Site__Platform__Suno 039e3b5). With a short lyric both funaná takes reached the final shout; the city pop takes came out with a female lead although a male one was asked for. Playlists rebuilt; nothing trashed; likes unchanged. Credits 1,470. Still waiting on Dinis: which songs to download for SoundCloud, the liked blues take, the Songs show v2 clips, the vault key. Next block 04:47 UTC.
+
 2026-11-27T21:00Z: block 12 made at the 20:47 wake: One Song, One Download (Angolan kuduro) and Out by the Fourth (early 1960s surf rock), each sung and instrumental (Site__Platform__Suno 6f88597). Both kuduro sung takes stopped before the final shout; the best one, on style, is published. Playlists rebuilt; nothing trashed; likes unchanged. Credits 1,510. Answered Dinis's SoundCloud question (relayed by elevenlabs.b, copied to it): MP3 and WAV both cost a download credit, 15 left; Pro 20 a month, Premier 60; commercial use needs a proper download. Waiting on Dinis: which songs to download for SoundCloud, the liked blues take, the Songs show v2 clips, the vault key. Next block 00:47 UTC.
 
 2026-11-27T17:00Z: block 11 made at the 16:47 wake: End It with a Shout (Portuguese vira, sung twice) and Sixteen Hundred, Samba (Rio samba-enredo), each sung and instrumental (Site__Platform__Suno 23516fd). Every sung take ended on its shout. Credits 1,550; at 240 a day they last to about 4 December, before the renewal on 13 December (told Dinis). Playlists rebuilt; nothing trashed; likes unchanged. Next block 20:47 UTC.
