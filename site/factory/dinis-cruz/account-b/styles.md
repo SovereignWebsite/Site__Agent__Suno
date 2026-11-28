@@ -32,3 +32,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 13 (28 Nov 00:48 UTC) | 1980s Japanese city pop | midnight-nothing-trashed |
 | 14 (28 Nov 04:48 UTC) | Angolan semba | ten-thousand |
 | 14 (28 Nov 04:48 UTC) | late 1990s UK garage | five-for-the-radio |
+| 15 (28 Nov 08:48 UTC) | Mozambican marrabenta | a-man-at-last |
+| 15 (28 Nov 08:48 UTC) | 1980s Chicago acid house | four-questions-waiting |
