@@ -1,8 +1,10 @@
 # suno.b: now
 
-Updated 2026-11-28T01:00Z (date -u).
+Updated 2026-11-28T05:00Z (date -u).
 
 ## Doing
+2026-11-28T05:00Z: block 14 made at the 04:47 wake: Ten Thousand (Angolan semba) and Five for the Radio (late 1990s UK garage), each sung and instrumental (Site__Platform__Suno 832e848). The semba sung take is complete and 5 of 5; both garage sung takes stop before the shout. vocal_gender male held in both. Since block 13: Dinis moved the account to Premier (about 01:51 UTC; 10,000 song credits, 60 downloads, 450 visuals, renews 28 Dec), recorded in budget.json; elevenlabs.b used 5 Pro downloads at 01:39 for a draft radio show, marked on those takes in songs.json. Relayed, not yet confirmed here by Dinis: stop the instrumentals; test the Premier features; downloads only through Suno and via soundcloud.b's steps. Playlists rebuilt; nothing trashed; likes unchanged. Next block 08:47 UTC.
+
 2026-11-28T01:00Z: block 13 made at the 00:47 wake: The Shout Is No Guarantee (Cape Verdean funaná) and Midnight, Nothing Trashed (1980s Japanese city pop), each sung and instrumental (Site__Platform__Suno 039e3b5). With a short lyric both funaná takes reached the final shout; the city pop takes came out with a female lead although a male one was asked for. Playlists rebuilt; nothing trashed; likes unchanged. Credits 1,470. Still waiting on Dinis: which songs to download for SoundCloud, the liked blues take, the Songs show v2 clips, the vault key. Next block 04:47 UTC.
 
 2026-11-27T21:00Z: block 12 made at the 20:47 wake: One Song, One Download (Angolan kuduro) and Out by the Fourth (early 1960s surf rock), each sung and instrumental (Site__Platform__Suno 6f88597). Both kuduro sung takes stopped before the final shout; the best one, on style, is published. Playlists rebuilt; nothing trashed; likes unchanged. Credits 1,510. Answered Dinis's SoundCloud question (relayed by elevenlabs.b, copied to it): MP3 and WAV both cost a download credit, 15 left; Pro 20 a month, Premier 60; commercial use needs a proper download. Waiting on Dinis: which songs to download for SoundCloud, the liked blues take, the Songs show v2 clips, the vault key. Next block 00:47 UTC.

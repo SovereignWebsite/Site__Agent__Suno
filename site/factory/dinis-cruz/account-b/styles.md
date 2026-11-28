@@ -30,3 +30,5 @@ Dinis, 26 Nov 2026: two styles per block, each with a witty lyric about the last
 | 12 (27 Nov 20:49 UTC) | early 1960s California surf rock | out-by-the-fourth |
 | 13 (28 Nov 00:48 UTC) | Cape Verdean funaná | the-shout-is-no-guarantee |
 | 13 (28 Nov 00:48 UTC) | 1980s Japanese city pop | midnight-nothing-trashed |
+| 14 (28 Nov 04:48 UTC) | Angolan semba | ten-thousand |
+| 14 (28 Nov 04:48 UTC) | late 1990s UK garage | five-for-the-radio |
